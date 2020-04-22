@@ -1,0 +1,15 @@
+/home
+/blog/en-us/digital-strategy/16-awesome-web-portal-examples
+/es/resources/l/omnichannel-insurance-strategy
+/downloads-community
+/resources/l/digital-business
+/resources/l/web-portal
+/resources/l/digital-strategy
+/products/dxp
+/blog/en-us/products-and-technology/15-awesome-customer-portal-examples
+/resources/l/digital-experience-platform
+/blog/en-us/customer-experience/what-are-the-five-moments-of-truth-in-marketing-
+/resources/l/5-top-use-cases-insurance
+/compatibility-matrix
+/products/dxp/30-day-trial
+/blog/es-es/transformacion-digital/cinco-ejemplos-de-intranet-que-potencian-la-productividad
