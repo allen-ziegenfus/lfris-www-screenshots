@@ -1,7 +1,7 @@
 #!/bin/bash
 
-SERVER=https://www-dev.liferay.com/web
 SERVER=https://www.liferay.com/web
+SERVER=https://www-dev.liferay.com/web
 create_screenshot() {
 
 
