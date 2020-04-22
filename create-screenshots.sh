@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SERVER=https://www-dev.liferay.com
+SERVER=https://www.liferay.com
 #FIREFOX=/Applications/Firefox.app/Contents/MacOS/firefox
 FIREFOX=/usr/bin/firefox
 
