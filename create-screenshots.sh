@@ -1,8 +1,10 @@
 #!/bin/bash
 
 SERVER=https://www-uat.liferay.com
-#FIREFOX=/Applications/Firefox.app/Contents/MacOS/firefox
-FIREFOX=/usr/bin/firefox
+FIREFOX=/Applications/Firefox.app/Contents/MacOS/firefox
+if [ ! -f "$FIREFOX" ]; then
+    FIREFOX=/usr/bin/firefox
+fi
 
 create_screenshot() {
     URL=$1
