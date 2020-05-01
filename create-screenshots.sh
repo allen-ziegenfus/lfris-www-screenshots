@@ -21,10 +21,10 @@ create_screenshot() {
 
 while IFS="" read -r p || [ -n "$p" ]
 do
-    create_screenshot $p "contentpages"
-done < contentpages.txt
+    create_screenshot $p "toppages"
+done < toppages.txt
 
 while IFS="" read -r p || [ -n "$p" ]
 do
-    create_screenshot $p "toppages"
-done < toppages.txt
+    create_screenshot $p "contentpages"
+done < contentpages.txt
